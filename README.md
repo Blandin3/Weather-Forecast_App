@@ -109,7 +109,6 @@ weather-forecast-app/
 MIT License - Free to use and modify
 
 ## Contact 📧
-Blandine Iradukunda
 b.iradukund3@alustudent.com/ Blandin3
 
 **Happy Weather Tracking!** 🌈🌤️🌡️
